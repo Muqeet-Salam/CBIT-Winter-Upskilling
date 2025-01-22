@@ -1,4 +1,4 @@
 # Machine Learning And Deep Learninng
 
 Machine learning concepts on kaggle datasets 
-Deep Learning models
+and Deep Learning models. 2024 Winter Upskilling
